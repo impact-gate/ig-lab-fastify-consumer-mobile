@@ -1,0 +1,7 @@
+{
+  "name": "ig-lab-fastify-consumer-mobile",
+  "version": "1.0.0",
+  "description": "Fastify Mobile Consumer (React Native)",
+  "main": "src/index.ts",
+  "type": "module"
+}
